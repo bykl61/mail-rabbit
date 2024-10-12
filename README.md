@@ -23,7 +23,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone [<repository-url>](https://github.com/bykl61/mail-rabbit.git)
+   git clone https://github.com/bykl61/mail-rabbit.git
    ```
 
 2. Install dependencies:
